@@ -1,5 +1,4 @@
 # hello-world
-where ideas go 
-and where they gain flight
-thinking on about >.? 
-what's even going on in this movie
+new to this whole programming thing
+need a push in the right direction
+hopefully this site can help
